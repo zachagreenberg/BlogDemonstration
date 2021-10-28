@@ -1,4 +1,4 @@
-# Blog Demonstration
+# Pandas/SQL Data Cleaning Demo
 
 This Github has the code for a [Blog demonstration](https://zach-a-greenberg.medium.com/data-cleaning-analysis-python-pandas-v-sql-8cba908a55c7) I've created featuring Data Analysis in Pandas and SQL.    
 
